@@ -107,5 +107,6 @@
     <orderEntry type="library" name="support-vector-drawable-25.0.0" level="project" />
     <orderEntry type="library" name="appcompat-v7-25.0.0" level="project" />
     <orderEntry type="library" name="support-core-utils-25.0.0" level="project" />
+    <orderEntry type="module" module-name="pulltorefreshlibrary" />
   </component>
 </module>
